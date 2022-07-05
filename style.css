@@ -1,0 +1,42 @@
+body{font-family: 'Roboto Slab', serif;
+}
+h1{
+               font-size:50px;
+}
+h2{
+            font-size: 40px;
+}
+
+.orange-color{ color:orange;
+}
+.flexibel-container{
+            display:flex ;
+            margin-bottom: 100px;
+}
+.half-width{width: 50%;
+            padding:5% ;
+
+}
+
+.half-width img{width:80%
+
+}
+.link-button{
+            text-decoration: none;
+            background-color:orange;
+            padding: 10px 40px;
+            border-radius: 5px;
+}
+ .Expirians-item{
+            width:40%;
+            margin-left: 5%;
+            margin-right:5% ;
+            padding:20px ;
+            box-shadow:10px 10px 40px gray ;
+
+}
+footer p{
+            text-align: center;
+}
+
+
